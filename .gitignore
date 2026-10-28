@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
+artifacts/*.joblib
+artifacts/metrics.json
+artifacts/feature_schema.json
